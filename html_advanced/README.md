@@ -1,1 +1,1 @@
-web front end
+WEB FRONT END
