@@ -1,14 +1,10 @@
 // file: 3-nested_tag
 
-$margin-body: 0px;
-$padding-body: 0px;
-$margin-p: 10px;
-
 body {
-    margin: $margin-body;
-    padding: $padding-body;
-}
+    margin: 0px;
+    padding: 0px;
 
-body p {
-    margin: $margin-p; 
+    body p {
+        padding: 10px;
+    }
 }
