@@ -1,0 +1,1 @@
+el readme estaba vacio por eso no me daba puntos jaj
